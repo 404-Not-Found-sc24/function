@@ -11,6 +11,7 @@ https://nadeuli.com
 ## 관광 데이터 크롤링 및 데이터베이스 업로드
 ### 크롤링
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenum&logoColor=white)
 
 <br/><br/>
 
